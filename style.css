@@ -1,0 +1,42 @@
+@charset "UTF-8";
+    * {
+        font-family: sans-serif
+    }
+
+        body {
+            background-color: rgb(15, 15, 15) ;
+        }
+        header{ 
+            text-align: center;
+        }
+        h1 {
+            font-size: 50px;
+            color: white;
+        }
+        h2 {
+            color: white;
+            font-size: 30px;
+        }
+        
+        a, p {
+            font-size: 20px;
+            color: antiquewhite;
+        }
+        a {
+            padding: 10px;
+            margin: 10px;
+            text-decoration: none;
+        }
+        article {
+            background-color: rgba(255, 255, 255, 0.288);
+            padding: 10px;
+            border-radius: 15px;
+            margin: 10px;
+        }
+        img {
+            min-width: 70%; 
+            max-width: 70%; 
+            margin: auto;
+            display: block;
+        }
+        
